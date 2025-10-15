@@ -101,7 +101,8 @@ SELECTCOLUMNS (
 ### 🔹 **Gráfico de Pareto (80/20) por Cliente**
 Mostra o **valor acumulado das vendas** por cliente e a **curva de Pareto** destacando as classes **A (verde)**, **B (laranja)** e **C (vermelho)**.
 
-![Gráfico Pareto por Cliente](./imagens/pareto_clientes.png)
+![Gráfico Pareto por Cliente](<img width="1628" height="510" alt="image" src="https://github.com/user-attachments/assets/2b37c2a4-1c7b-4be3-bfa1-7841d9ad18b9" />
+)
 
 ---
 
