@@ -115,7 +115,8 @@ Visualização consolidada mostrando a distribuição de clientes por classe:
 | 🟧 B | 15% | 30 |
 | 🟥 C | 5% | 50 |
 
-![Resumo ABC](./imagens/pareto_resumo.png)
+![Resumo ABC](<img width="1177" height="662" alt="image" src="https://github.com/user-attachments/assets/e1e15854-deab-45a4-8439-281be542eb47" />
+)
 
 ---
 
@@ -152,15 +153,18 @@ Visualização consolidada mostrando a distribuição de clientes por classe:
 **Gabriel Tedesque**  
 📍 Cientista de Dados | Power BI | Automação com Python  
 🔗 [LinkedIn](https://www.linkedin.com/in/gabriel-tedesque/)  
-📧 gabriel.tedesque@email.com  
+📧 gabriel.tedesque@gmail.com  
 
 ---
 
 ## 📸 Prévia dos Resultados
 
-![Base criada com ChatGPT](./imagens/base_chatgpt.png)
-![Pareto Clientes](./imagens/pareto_clientes.png)
-![Resumo ABC](./imagens/pareto_resumo.png)
+![Base criada com ChatGPT](<img width="726" height="346" alt="image" src="https://github.com/user-attachments/assets/c07566b1-34bc-4edc-b4f9-48b7a6521671" />
+)
+![Pareto Clientes](<img width="1628" height="510" alt="image" src="https://github.com/user-attachments/assets/cb28610c-8352-44b2-bedd-08b99e71ba1b" />
+)
+![Resumo ABC](<img width="1177" height="662" alt="image" src="https://github.com/user-attachments/assets/ebdc13dd-ee50-4915-abc8-eb6d5891b5c1" />
+)
 
 ---
 
